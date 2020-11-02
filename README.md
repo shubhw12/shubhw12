@@ -9,6 +9,14 @@
 - ⚡ Fun fact: I love to go on rides and make customizations to my bike!
 
 
+---
+
+  :zap: GitHub Stats
+
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhw12&show_icons=true)
+
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -29,16 +37,6 @@
 
 <br />
 <br />
-
----
-
-
-  :zap: GitHub Stats
-
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhw12&show_icons=true)
-
-
-
 
 [instagram]: https://www.instagram.com/shubh_w12/
 [linkedin]: https://www.linkedin.com/in/shubham-wagh-838ab1171/
