@@ -34,7 +34,7 @@
 ---
 
 
-  <summary>:zap: GitHub Stats</summary>
+  :zap: GitHub Stats
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhw12&show_icons=true)
 
