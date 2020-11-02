@@ -34,13 +34,12 @@
 ---
 
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhw12&show_icons=true)
 
 
-</details>
+
 
 [instagram]: https://www.instagram.com/shubh_w12/
 [linkedin]: https://www.linkedin.com/in/shubham-wagh-838ab1171/
