@@ -8,6 +8,14 @@
 - 🥅 2020-21 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to go on rides and make customizations to my bike!
 
+---
+
+
+  :zap: GitHub Stats
+
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhw12&show_icons=true)
+
+
 
 ### Connect with me:
 
@@ -29,14 +37,6 @@
 
 <br />
 <br />
-
----
-
-
-  :zap: GitHub Stats
-
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhw12&show_icons=true)
-
 
 
 
