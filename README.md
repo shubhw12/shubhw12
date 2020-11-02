@@ -44,9 +44,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shubhw12's GitHub Stats" src="https://github-readme-stats.shubhw12.vercel.app/api?username=shubhw12&show_icons=true&hide_border=true" />
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhw12&show_icons=true)
+
 
 </details>
 
 [instagram]: https://www.instagram.com/shubh_w12/
 [linkedin]: https://www.linkedin.com/in/shubham-wagh-838ab1171/
+
+
