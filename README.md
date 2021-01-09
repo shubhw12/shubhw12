@@ -14,7 +14,7 @@
 https://clone-a2f50.web.app/
 
 
-  :zap: GitHub Stats
+  ##:zap: GitHub Stats
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhw12&show_icons=true)
 
